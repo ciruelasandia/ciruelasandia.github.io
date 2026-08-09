@@ -1,7 +1,7 @@
 +++
 date = '2026-08-07T23:56:55+02:00'
 draft = false
-title = '马德里数字出行指南：从公共交通卡到必备 APP，一篇搞定城市通行'
+title = '马德里数字出行指南：公共交通卡与必备APP'
 +++
 
 <p style="font-size: 0.9em; line-height: 1.6; color: #4a5568;">
