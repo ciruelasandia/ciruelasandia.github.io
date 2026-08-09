@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ciruelasandia.github.io/'
 locale = 'en-us'
 title = 'Les Petits Riens'
 theme = "PaperMod"
@@ -11,7 +11,7 @@ defaultContentLanguage = "zh"
       unsafe = true
 
 [params]
-  defaultTheme = "auto" # 可选: "auto" (跟随系统), "light" (亮色), "dark" (暗色)
-  disableThemeToggle = false # 允许读者手动切换黑夜/白天模式
+  defaultTheme = "auto"
+  disableThemeToggle = false
   ShowToc = true
   TocOpen = true
