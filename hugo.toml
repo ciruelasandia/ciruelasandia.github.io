@@ -1,0 +1,17 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Les Petits Riens'
+theme = "PaperMod"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  defaultTheme = "auto" # 可选: "auto" (跟随系统), "light" (亮色), "dark" (暗色)
+  disableThemeToggle = false # 允许读者手动切换黑夜/白天模式
+  ShowToc = true
+  TocOpen = true

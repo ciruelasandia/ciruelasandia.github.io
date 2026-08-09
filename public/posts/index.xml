@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Les Petits Riens</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Les Petits Riens</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Aug 2026 23:56:55 +0200</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>马德里数字出行指南：从公共交通卡到必备 APP，一篇搞定城市通行</title>
+      <link>https://example.org/posts/hello/</link>
+      <pubDate>Fri, 07 Aug 2026 23:56:55 +0200</pubDate>
+      <guid>https://example.org/posts/hello/</guid>
+      <description>&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+  &lt;span style=&#34;float: left; font-size: 3.2em; line-height: 0.8; padding-right: 8px; padding-top: 4px; color: #3182ce; font-weight: bold;&#34;&gt;马&lt;/span&gt;德里是抵达西班牙旅游和移民的首选之一。地铁、公交、近郊火车……各类公共交通网络很发达，但刚来的新人，甚至在这里生活了很久的人，往往纠结于如何找到实时准确的App查询路线、以及如何购票最划算。这篇文章基于实际生活经验，帮大家一次性理清，省下时间和精力。
+&lt;/p&gt;
+&lt;h2 id=&#34;马德里交通速览&#34;&gt;马德里交通速览&lt;/h2&gt;
+&lt;p&gt;马德里的公共交通由马德里大区交通联盟（Consorcio Regional de Transportes de Madrid，简称CRTM） 统一协调管理。市内的主要公共交通工具包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;地铁（Metro）&lt;/strong&gt;：覆盖马德里市区及部分郊区，共有超过300个车站，是市内最核心的出行方式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;近郊火车（Cercanías）&lt;/strong&gt;：由Renfe运营，连接马德里市区与周边卫星城及大区其他城市，是不少工作党和学生近郊马德里的通勤首选，此外，它还是前往阿尔卡拉、阿兰胡埃斯、埃斯科里亚尔等世界遗产城市，以及机场T4和Las Rozas Village的最佳交通之一。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;市区公交（EMT Bus）&lt;/strong&gt;：蓝色车身，覆盖地铁未触及的街区网络。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;近郊公交（Autobuses Interurbanos）&lt;/strong&gt;：绿色车身，解决“马德里市区与周边城镇之间”的出行需求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;旅游巴士（Bus Turístico）&lt;/strong&gt;：红色双层车身，专门为游客设计的“随上随下（Hop-on Hop-off）”观光服务。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;轻轨（Metro Ligero）&lt;/strong&gt;：主要服务市区外围区域，共有ML1、ML2、ML3、ML4四条线路。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div style=&#34;text-align: center; margin-bottom: 20px;&#34;&gt;
+  &lt;img src=&#34;https://example.org/images/地铁运行线路.png&#34; alt=&#34;地铁运行线路&#34; style=&#34;display: block; margin: 0 auto 4px auto; max-width: 100%;&#34; /&gt;
+  &lt;small style=&#34;color: #888888; display: block; margin-top: 0; line-height: 1.2;&#34;&gt;&lt;em&gt;地铁运行线路 - 来源：Metro de Madrid&lt;/em&gt;&lt;/small&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center; margin-bottom: 20px;&#34;&gt;
+  &lt;img src=&#34;https://example.org/images/近郊小火车路线图.png&#34; alt=&#34;近郊小火车路线图&#34; style=&#34;display: block; margin: 0 auto 4px auto; max-width: 100%;&#34; /&gt;
+  &lt;small style=&#34;color: #888888; display: block; margin-top: 0; line-height: 1.2;&#34;&gt;&lt;em&gt;近郊小火车路线图 - 来源：Renfe&lt;/em&gt;&lt;/small&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center; margin-bottom: 20px;&#34;&gt;
+  &lt;img src=&#34;https://example.org/images/市区公交.png&#34; alt=&#34;市区公交&#34; style=&#34;display: block; margin: 0 auto 4px auto; max-width: 100%;&#34; /&gt;
+  &lt;small style=&#34;color: #888888; display: block; margin-top: 0; line-height: 1.2;&#34;&gt;&lt;em&gt;市区公交&lt;/em&gt;&lt;/small&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center; margin-bottom: 20px;&#34;&gt;
+  &lt;img src=&#34;https://example.org/images/近郊公交.png&#34; alt=&#34;近郊公交&#34; style=&#34;display: block; margin: 0 auto 4px auto; max-width: 100%;&#34; /&gt;
+  &lt;small style=&#34;color: #888888; display: block; margin-top: 0; line-height: 1.2;&#34;&gt;&lt;em&gt;近郊公交&lt;/em&gt;&lt;/small&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;关于分区（Zonas）&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

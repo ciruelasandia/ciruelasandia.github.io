@@ -1,0 +1,28 @@
+
+body {
+    font-family: "LXGW Bright", "霞鹜文楷", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
+    font-size: 18px;      /* 调整为你觉得舒服的大小 */
+    line-height: 1.8;     /* 调整行距 */
+
+}
+
+pre, code {
+    font-family: "Fira Code", "JetBrains Mono", "Cascadia Code", monospace;
+}
+
+@media screen and (max-width: 768px) {
+    body { font-size: 16px; line-height: 1.7; }
+    .post-title, h1 { font-size: 1.5rem !important; line-height: 1.35; }
+    h2 { font-size: 1.3rem !important; line-height: 1.4; }
+    h3 { font-size: 1.15rem !important; line-height: 1.45; }
+    .post-content { font-size: 1rem !important; line-height: 1.75; }
+}
+
+.post-content code {
+    font-size: 0.9em; /* 比正文稍小一点，或设置固定大小 */
+}
+
+:root {
+    --primary: #2c3e50;   /* 主色 */
+    --theme: #ffffff;      /* 背景色 */
+}
