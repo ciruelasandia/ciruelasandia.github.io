@@ -78,3 +78,24 @@ pre, code {
     --primary: #2c3e50;
     --theme: #ffffff;
 }
+
+@media screen and (max-width: 768px) {
+    .profile {
+        padding: 0;
+        position: relative;
+    }
+
+    .profile .profile_inner {
+        position: absolute;
+        right: 24px;
+        bottom: 24px;
+        width: auto;
+        align-items: flex-end;
+        text-align: right;
+    }
+
+    .profile_inner > span {
+        font-size: 1.2rem;
+        line-height: 1.5;
+    }
+}

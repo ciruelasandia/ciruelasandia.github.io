@@ -20,7 +20,7 @@ defaultContentLanguage = "zh"
 [params.profileMode]
   enabled = true
   title = ""
-  subtitle = "欢迎来到我的角落<br>生活琐事，偶有所思。"
+  subtitle = "欢迎来到我的角落<br>生活琐事，偶有所思"
   imageUrl = ""
   imageTitle = ""
   imageWidth = 120
