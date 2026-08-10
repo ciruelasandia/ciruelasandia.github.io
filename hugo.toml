@@ -1,5 +1,5 @@
 baseURL = 'https://ciruelasandia.github.io/'
-locale = 'en-us'
+locale = 'zh-cn'
 title = 'Les Petits Riens'
 theme = "PaperMod"
 languageCode = "zh-cn"
@@ -15,3 +15,4 @@ defaultContentLanguage = "zh"
   disableThemeToggle = false
   ShowToc = true
   TocOpen = true
+  homeInfoParams = { Title = "欢迎来到我的角落", Content = "生活琐事，偶有所思。" }
