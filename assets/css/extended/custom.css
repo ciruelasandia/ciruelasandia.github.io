@@ -97,5 +97,6 @@ pre, code {
     .profile_inner > span {
         font-size: 1.2rem;
         line-height: 1.5;
+        color: #000 !important;
     }
 }
