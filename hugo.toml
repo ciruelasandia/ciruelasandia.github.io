@@ -3,7 +3,6 @@ locale = 'zh-cn'
 title = 'Les Petits Riens'
 copyright = '© 2026 Les Petits Riens'
 theme = "PaperMod"
-languageCode = "zh-cn"
 defaultContentLanguage = "zh"
 
 [markup]
@@ -17,3 +16,7 @@ defaultContentLanguage = "zh"
   ShowToc = true
   TocOpen = true
   homeInfoParams = { Title = "欢迎来到我的角落", Content = "生活琐事，偶有所思。" }
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-VJVB0NE0N2"
