@@ -165,12 +165,12 @@ Moovit自身提供逐向导航（turn-by-turn） ，结合众包数据和官方�
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/Madrid Bus Metro Cercanías 查询.png" alt="Madrid Bus Metro Cercanías 查询" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/Madrid-bus-metro-cercanias.png" alt="Madrid-bus-metro-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Madrid Bus Metro Cercanías 查询界面</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/Renfe Cercanías 查询.png" alt="Renfe Cercanías 查询" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/renfe-cercanias.png" alt="renfe-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Renfe Cercanías 查询界面</em></small>
 </div>
 
