@@ -28,24 +28,24 @@ title = '马德里数字出行指南：公共交通卡与必备APP'
 - **轻轨（Metro Ligero）**：主要服务市区外围区域，共有ML1、ML2、ML3、ML4四条线路。
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/地铁运行线路.png" alt="地铁运行线路" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/地铁运行线路.png" alt="地铁运行线路" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>地铁运行线路 - 来源：Metro de Madrid</em></small>
 </div>
 
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/近郊小火车路线图.png" alt="近郊小火车路线图" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/近郊小火车路线图.png" alt="近郊小火车路线图" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>近郊小火车路线图 - 来源：Renfe</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/市区公交.png" alt="市区公交" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/市区公交.png" alt="市区公交" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>市区公交</em></small>
 </div>
 
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/近郊公交.png" alt="近郊公交" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/近郊公交.png" alt="近郊公交" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>近郊公交</em></small>
 </div>
 
@@ -107,20 +107,20 @@ Waze最大的特点是为开车而生——它是一款纯粹为驾驶员设计�
 Moovit自身提供逐向导航（turn-by-turn） ，结合众包数据和官方时刻表，给出实时到站预测、路线规划和车站内的站内导航。不过免费版有广告干扰，如果介意可以付费去广告，而且Moovit步行导航真心不好用。
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/常用APP.png" alt="常用APP" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/常用APP.png" alt="常用APP" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>常用APP</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 2px !important;">
-    <img src="/images/moovit-app-1.png" alt="moovit-app-1" style="width: 48%; max-width: 100%; margin: 0 !important;" />
-    <img src="/images/moovit-app-2.png" alt="moovit-app-2" style="width: 48%; max-width: 100%; margin: 0 !important;" />
+    <img src="/images/madrid-transport/moovit-app-1.png" alt="moovit-app-1" style="width: 48%; max-width: 100%; margin: 0 !important;" />
+    <img src="/images/madrid-transport/moovit-app-2.png" alt="moovit-app-2" style="width: 48%; max-width: 100%; margin: 0 !important;" />
   </div>
   <small style="color: #888888; display: block; margin-top: 0 !important; line-height: 1.2;"><em>Moovit 应用界面</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/马德里公交站台.png" alt="马德里公交站台" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/马德里公交站台.png" alt="马德里公交站台" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>马德里公交站台：蓝底白字是站牌号</em></small>
 </div>
 
@@ -155,22 +155,22 @@ Moovit自身提供逐向导航（turn-by-turn） ，结合众包数据和官方�
 去年前曾推出4个月10欧元无限乘坐的优惠，对于周末近郊旅游以及工作出行非常友好，现在该活动已取消，票价已上涨。
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/Transporte Madrid y TTP.png" alt="Transporte Madrid y TTP" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/Transporte Madrid y TTP.png" alt="Transporte Madrid y TTP" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Transporte Madrid y TTP 应用界面：根据交通方式选择</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/Transporte Madrid y TTP 近郊公交查询.png" alt="Transporte Madrid y TTP 近郊公交查询" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/Transporte Madrid y TTP 近郊公交查询.png" alt="Transporte Madrid y TTP 近郊公交查询" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Transporte Madrid y TTP：近郊公交查询界面</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/Madrid-bus-metro-cercanias.png" alt="Madrid-bus-metro-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/Madrid-bus-metro-cercanias.png" alt="Madrid-bus-metro-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Madrid Bus Metro Cercanías 查询界面</em></small>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="/images/renfe-cercanias.png" alt="renfe-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
+  <img src="/images/madrid-transport/renfe-cercanias.png" alt="renfe-cercanias" style="display: block; margin: 0 auto 4px auto; max-width: 100%;" />
   <small style="color: #888888; display: block; margin-top: 0; line-height: 1.2;"><em>Renfe Cercanías 查询界面</em></small>
 </div>
 
@@ -208,9 +208,11 @@ Moovit自身提供逐向导航（turn-by-turn） ，结合众包数据和官方�
 
 - 地铁10次卡是可以坐市内蓝色公交的。
 
-- 地铁卡（个人卡或匿名卡）对充值购买是有一定限制的，比如每张卡最多只能充3种票（如10次卡/月卡），另外分区不能冲突，比如你买了A-B1的公交之后，就不能再购买B1-B2的票了。
+- 地铁卡（个人卡或匿名卡）对充值购买是有一定限制的，比如每张卡最多只能充3种票（如10次卡/月卡）,另外分区不能冲突，比如你买了A-B1的公交之后，就不能再购买B1-B2的票了；。
 
-- 马德里有几条地铁是包含A圈之外的(如7、10、12号线)，需要留意购买车票的，比如Metro Sur 或 combinado。
+- 马德里有几条地铁是包含A圈之外的(如7、10、12号线)，需要留意购买车票的，比如Metro Sur 或 combinado，此外，非A圈的10次票互相是不通用的，12号线 B1-B2 metrosur的票不能拿去做10号线 B1 MetroNorte。
+
+- 相比单次约1.5欧左右的价格，10次票通常可以享受6.7欧到7.3欧的优惠价格
 
 **如果有其他关于马德里出行的问题，或者发现信息有更新，欢迎在评论区留言，我会及时回复和补充。**
 
