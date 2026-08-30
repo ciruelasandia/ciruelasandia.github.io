@@ -49,7 +49,7 @@ pre, code {
 
 .profile .profile_inner {
     align-items: flex-start;
-    text-align: left;
+    text-align: right;
 }
 
 .profile_inner > h1 {
