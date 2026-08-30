@@ -2,18 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Les Petits Riens</title>
-    <link>http://localhost:1313/</link>
+    <link>https://ciruelasandia.github.io/</link>
     <description>Recent content on Les Petits Riens</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <copyright>2026 Les Petits Riens</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 23:56:55 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Aug 2026 16:10:36 +0200</lastBuildDate>
+    <atom:link href="https://ciruelasandia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>马德里安全区分指南</title>
+      <link>https://ciruelasandia.github.io/posts/madrid-safe-neighborhoods/</link>
+      <pubDate>Sun, 30 Aug 2026 16:10:36 +0200</pubDate>
+      <guid>https://ciruelasandia.github.io/posts/madrid-safe-neighborhoods/</guid>
+      <description>&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+  &lt;span style=&#34;float: left; font-size: 3.2em; line-height: 0.8; padding-right: 8px; padding-top: 4px; color: #3182ce; font-weight: bold;&#34;&gt;马&lt;/span&gt;德里是留学、工作、旅行以及非盈利人群的热门目的地。“第一次来马德里，住哪儿？”几乎是每个来马德里旅行、生活的人都会纠结的问题。房价、交通、生活便利程度固然重要，但安全是出门在外最需重点考虑的要素。
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+马德里不同区域之间的治安差异，比想象中大很多，甚至只隔一条街，体验也可能完全不同。可惜的是，网上能找到的中文信息大多只按行政区来概括——有些文章甚至直接把整个Centro或Salamanca列为“需要注意的区域”。但在真实的居住体验中，同一个行政区里，不同街区的状况往往天差地别，笼统的结论并不准确。
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+所以，与其简单地说“哪里安全、哪里不安全”，不如把视角放到具体的街区（barrio）。这篇文章会以街区为单位，梳理马德里主要区域的治安现状，希望能给计划来马德里旅游或生活的朋友，提供一个更具体、更实用的参考。
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>南荷兰公共交通指南：月卡购买新旧体系对比，及与NS订阅共存</title>
+      <link>https://ciruelasandia.github.io/posts/south-holland-transit-guide/</link>
+      <pubDate>Tue, 11 Aug 2026 22:25:05 +0200</pubDate>
+      <guid>https://ciruelasandia.github.io/posts/south-holland-transit-guide/</guid>
+      <description>&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+  &lt;span style=&#34;float: left; font-size: 3.2em; line-height: 0.8; padding-right: 8px; padding-top: 4px; color: #3182ce; font-weight: bold;&#34;&gt;大&lt;/span&gt;家都知道荷兰交通费惊人的贵，约1小时通勤距离的话，每月花费3百欧左右并不罕见。尽管很多企业会报销交通费，但不少是按自驾公里数计算而非实报实销，所以对于交通路线相对规律的通勤党而言，购买月票是一个性价比很高的选择。
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+  但荷兰的交通系统并不像想象中那么简单，甚至可以说是烧脑级别。不同交通运营商有各自的订阅产品且未必兼容，Zone的划分及其更迭换代也容易让第一次购买的人摸不着头脑。
+&lt;/p&gt;
+&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
+  这篇文章就结合实际经验，侧重介绍如何购买非NS交通月卡的新旧体系对比，以及如何让公交月卡和NS订阅同时存在于一张OV-chipkaart上。
+&lt;/p&gt;</description>
+    </item>
     <item>
       <title>马德里数字出行指南：公共交通卡与必备APP</title>
-      <link>http://localhost:1313/posts/madrid-digital-mobility/</link>
+      <link>https://ciruelasandia.github.io/posts/madrid-digital-mobility/</link>
       <pubDate>Fri, 07 Aug 2026 23:56:55 +0200</pubDate>
-      <guid>http://localhost:1313/posts/madrid-digital-mobility/</guid>
+      <guid>https://ciruelasandia.github.io/posts/madrid-digital-mobility/</guid>
       <description>&lt;p style=&#34;font-size: 0.9em; line-height: 1.6; color: #4a5568;&#34;&gt;
   &lt;span style=&#34;float: left; font-size: 3.2em; line-height: 0.8; padding-right: 8px; padding-top: 4px; color: #3182ce; font-weight: bold;&#34;&gt;马&lt;/span&gt;德里是抵达西班牙旅游和移民的首选之一。地铁、公交、近郊火车……各类公共交通网络很发达，但刚来的新人，甚至在这里生活了很久的人，往往纠结于如何找到实时准确的App查询路线、以及如何购票最划算。这篇文章基于实际生活经验，帮大家一次性理清，省下时间和精力。
 &lt;/p&gt;</description>
