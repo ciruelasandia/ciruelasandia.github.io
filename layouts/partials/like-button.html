@@ -1,4 +1,4 @@
-<div class="article-like" data-like-slug="{{ .RelPermalink }}">
+<div class="article-like">
   <div class="article-like-text">如果这篇文章对你有帮助</div>
 
   <button class="article-like-button" type="button">
@@ -13,7 +13,9 @@
   const box = document.querySelector(".article-like");
   if (!box) return;
 
-  const slug = box.dataset.likeSlug;
+  // 用当前文章 URL 作为唯一 ID
+  const slug = window.location.pathname;
+
   const api =
     "https://blog-likes-api.theopen.workers.dev/?slug=" +
     encodeURIComponent(slug);
@@ -22,7 +24,8 @@
   const label = box.querySelector(".article-like-label");
   const count = box.querySelector(".article-like-count");
 
-  const storageKey = "blog-liked:" + slug;
+  // 使用新的 key，避免之前测试留下的旧 localStorage 影响
+  const storageKey = "blog-liked-v2:" + slug;
 
   async function loadCount() {
     try {
@@ -33,6 +36,7 @@
       }
 
       const data = await response.json();
+
       count.textContent = `${data.count} 人支持`;
 
       if (localStorage.getItem(storageKey) === "1") {
