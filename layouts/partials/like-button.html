@@ -1,0 +1,79 @@
+<div class="article-like" data-like-slug="{{ .RelPermalink }}">
+  <div class="article-like-text">如果这篇文章对你有帮助</div>
+
+  <button class="article-like-button" type="button">
+    👍 <span class="article-like-label">赞一下</span>
+  </button>
+
+  <div class="article-like-count" aria-live="polite">0 人支持</div>
+</div>
+
+<script>
+(() => {
+  const box = document.querySelector(".article-like");
+  if (!box) return;
+
+  const slug = box.dataset.likeSlug;
+  const api =
+    "https://blog-likes-api.theopen.workers.dev/?slug=" +
+    encodeURIComponent(slug);
+
+  const button = box.querySelector(".article-like-button");
+  const label = box.querySelector(".article-like-label");
+  const count = box.querySelector(".article-like-count");
+
+  const storageKey = "blog-liked:" + slug;
+
+  async function loadCount() {
+    try {
+      const response = await fetch(api);
+
+      if (!response.ok) {
+        throw new Error("Failed to load count");
+      }
+
+      const data = await response.json();
+      count.textContent = `${data.count} 人支持`;
+
+      if (localStorage.getItem(storageKey) === "1") {
+        button.disabled = true;
+        button.classList.add("is-liked");
+        label.textContent = "已支持";
+      }
+    } catch (error) {
+      count.textContent = "暂时无法加载支持数";
+    }
+  }
+
+  button.addEventListener("click", async () => {
+    if (localStorage.getItem(storageKey) === "1") {
+      return;
+    }
+
+    button.disabled = true;
+
+    try {
+      const response = await fetch(api, {
+        method: "POST"
+      });
+
+      if (!response.ok) {
+        throw new Error("Failed to add like");
+      }
+
+      const data = await response.json();
+
+      count.textContent = `${data.count} 人支持`;
+
+      localStorage.setItem(storageKey, "1");
+
+      button.classList.add("is-liked");
+      label.textContent = "已支持";
+    } catch (error) {
+      button.disabled = false;
+    }
+  });
+
+  loadCount();
+})();
+</script>
